@@ -1,0 +1,8 @@
+SES
+
+Creating/updating Mail template
+aws ses create-template --cli-input-json file://mytemplate.json
+aws ses update-template --cli-input-json file://mytemplate.json
+
+Sending Mail
+aws ses send-templated-email --cli-input-json file://myemail.json

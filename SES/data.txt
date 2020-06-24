@@ -2,7 +2,7 @@
   "Source": "ghitesh@gmail.com",
   "Template": "MyTemplate",
   "Destination": {
-    "ToAddresses": [ "ghitesh@gmail.com","hitesh_gupta@apple.com"
+    "ToAddresses": [ "ghitesh@gmail.com","hitesh@hitesh.com"
     ]
   },
   "TemplateData": "{ \"name\":\"Alejandro\", \"favoriteanimal\": \"alligator\" }"
